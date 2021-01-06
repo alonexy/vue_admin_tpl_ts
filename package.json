@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/v-chart-plugin": "^0.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buefy": "^0.8.20",
     "bulma": "^0.8.2",
     "core-js": "^3.6.4",
